@@ -45,9 +45,6 @@ module.exports = {
     'no-new-func': 'error',
     'no-script-url': 'error',
   },
-  env: {
-    node: true,
-    es2020: true,
   },
   ignorePatterns: [
     'dist/',
